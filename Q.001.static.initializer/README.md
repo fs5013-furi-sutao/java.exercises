@@ -16,10 +16,10 @@
  最後に students に詰め込まれた各インスタンスの id と name を、Stream API とメソッド参照を使ってすべて表示しなさい 
    
  ## 準備済クラス  
- - [/src/App.java](./src/App.java)  
- - [/src/Student.java](./src/Student.java)  
+ - [/src/App.java](./01.question/src/App.java)  
+ - [/src/Student.java](./01.question/src/Student.java)  
 
 ### 回答例
- - [/src/App.java](../02.answer.example/src/App.java)  
- - [/src/Student.java](../02.answer.example/src/Student.java)  
+ - [/src/App.java](./02.answer.example/src/App.java)  
+ - [/src/Student.java](./02.answer.example/src/Student.java)  
    
