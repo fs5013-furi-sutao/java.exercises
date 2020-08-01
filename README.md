@@ -22,3 +22,5 @@ Clean the Java language server workspace
 Are you sure you want to clean the Java language server workspace? と、本当にキャッシュを消去していいのかを尋ねてくるので、「Restart and delete」ボタンを押下する。
 
 これで対象のクラスからの main メソッドの実行が可能となる。
+
+また別の src フォルダの main メソッドを実行する場合は、再びキャッシュのクリアが必要となる。
