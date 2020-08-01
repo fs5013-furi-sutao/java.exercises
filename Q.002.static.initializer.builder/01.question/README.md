@@ -18,11 +18,13 @@ Dog クラスのインスタンスは、自動採番（オートインクリメ�
 ### 要件.03  
 最後に dogs に詰め込まれた各インスタンスの id, name, type を、Stream API とメソッド参照を使ってすべて表示しなさい 
    
- ## 準備済クラス  
- - [/src/App.java](./src/App.java)  
- - [/src/Dog.java](./src/Dog.java)  
+## 準備済クラス  
+- [/src/App.java](./src/App.java)  
+- [/src/Dog.java](./src/Dog.java)  
+- [/src/DogType.java](./src/DogType.java) 
 
 ### 回答例
- - [/src/App.java](../02.answer.example/src/App.java)  
- - [/src/Dog.java](../02.answer.example/src/Dog.java)  
+- [/src/App.java](../02.answer.example/src/App.java)  
+- [/src/Dog.java](../02.answer.example/src/Dog.java)  
+- [/src/Dog.java](../02.answer.example/src/DogType.java)  
    
