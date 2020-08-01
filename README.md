@@ -5,7 +5,8 @@ Java 問題集
 VSCode で main メソッドを実行すると、以下の警告が出て Run/Debug ができない場合がある。
 
 ```console
-The file App.java isn't on the classpath, the runtime may throw class not found error. Do you want to add the parent folder "path/to/src/folder" to Java source path?
+The file App.java isn't on the classpath, the runtime may throw class not found error. 
+Do you want to add the parent folder "path/to/src/folder" to Java source path?
 
 Source: Debugger for Java(Extension)
 ```
